@@ -1,7 +1,8 @@
 ### Hi there, I'm Rick Booth. You can find me on twitter [here](https://twitter.com/rixcydev) or LinkedIn [here](https://www.linkedin.com/in/rick-booth-480677119/).  👋
-
-- <pre>🌱 I’m currently learning about Serverless Architecture, monorepo component libraries and testing.</pre>
-- <pre>🔭 I’m currently working on building a component library and nextjs starter for rapid development.</pre>
+<pre>
+- 🌱 I’m currently learning about Serverless Architecture, monorepo component libraries and testing.
+- 🔭 I’m currently working on building a component library and nextjs starter for rapid development.
+</pre>
 
 #### Projects
 
