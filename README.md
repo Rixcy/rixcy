@@ -1,4 +1,4 @@
-### Hi there, I'm Rick Booth. You can find me on twitter [here](https://twitter.com/rixcydev) 👋
+### Hi there, I'm Rick Booth. You can find me on twitter [here](https://twitter.com/rixcy) 👋
 - 🌱 I’m currently working as a full stack developer for [Progression](https://progressionapp.com) helping build out and integrate a design system using React/TypeScript.
 
 #### Tools and Technologies
