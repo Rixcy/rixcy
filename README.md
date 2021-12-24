@@ -1,6 +1,5 @@
-### Hi there, I'm Rick Booth. You can find me on twitter [here](https://twitter.com/rixcydev) or LinkedIn [here](https://www.linkedin.com/in/rick-booth-480677119/).  👋
-- 🌱 I’m currently learning about full stack JavaScript development using TypeScript, GraphQL and Prisma.
-- 🔭 I’m currently working on a community platform using Blitz and TailwindCSS.
+### Hi there, I'm Rick Booth. You can find me on twitter [here](https://twitter.com/rixcydev) 👋
+- 🌱 I’m currently working as a full stack developer for [Progression](https://progressionapp.com) helping build out and integrate a design system using React/TypeScript.
 
 #### Tools and Technologies
 
@@ -11,7 +10,6 @@ I enjoy working with React and TypeScript building anything from component libra
 - **[rickbooth.me](https://rickbooth.me)** - My current website built using Dracula UI
 - **[nextjs-starter](https://github.com/Rixcy/nextjs-starter)** - A starter project with powerful functionality like StoryBook, TypeScript, TailwindCSS etc. built in
 - **[components](https://components.rixcy.website)** - A library of React/TypeScript components styled using TailwindCSS with accessibility and performance in mind.
-- **[rixcy.website](https://rixcy.website)** - A clone of the nextjs-starter project used as a landing page for Rixcy projects/components.
 
 <!--
 **Rixcy/rixcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
