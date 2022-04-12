@@ -6,6 +6,8 @@
 
 I enjoy working with React and TypeScript building anything from component libraries to full stack SaaS apps.
 
+![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rixcy&count_private=true&show_icons=true&theme=dracula)
+
 <!--
 **Rixcy/rixcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
