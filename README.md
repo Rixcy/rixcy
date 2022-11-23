@@ -1,24 +1,9 @@
 ### Hi there, I'm Rick Booth. You can find my website [here](https://rickbooth.me)
 
-🌱 I’m currently working as a Senior Frontend Developer for [Progression](https://progressionapp.com) on Design Systems and building out the front end for an app specialising in building career frameworks.
+🌱 I’m currently working as a Senior Frontend Developer for [Progression](https://progression.co) on Design Systems and building out the front end for an app specialising in building career frameworks.
 
 #### Tools and Technologies
 
 I enjoy working with React and TypeScript building anything from component libraries to full stack SaaS apps.
 
-![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rixcy&count_private=true&show_icons=true&theme=dracula)
-
-<!--
-**Rixcy/rixcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭  I’m currently working on ...
-- 🌱  I’m currently learning ...
-- 👯  I’m looking to collaborate on ...
-- 🤔  I’m looking for help with ...
-- 💬  Ask me about ...
-- 📫  How to reach me: ...
-- 😄  Pronouns: ...
-- ⚡  Fun fact: ...
--->
+<!-- ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rixcy&count_private=true&show_icons=true&theme=dracula) -->
