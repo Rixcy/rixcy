@@ -1,6 +1,6 @@
 ### Hi there, I'm Rick Booth. You can find my website [here](https://rickbooth.me)
 
-🌱 I’m currently working as a Senior Frontend Developer for [Progression](https://progression.co) on Design Systems and building out the front end for an app specialising in building career frameworks.
+🌱 I’m currently looking for roles as a Senior Frontend Developer! Get in touch if you think we'd be a good fit :)
 
 #### Tools and Technologies
 
